@@ -1,0 +1,15 @@
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.AssemblyInfoInputs.cache
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.AssemblyInfo.cs
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\bin\Debug\net6.0\ListaFinalEDEx2.exe
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\bin\Debug\net6.0\ListaFinalEDEx2.deps.json
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\bin\Debug\net6.0\ListaFinalEDEx2.runtimeconfig.json
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\bin\Debug\net6.0\ListaFinalEDEx2.dll
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\bin\Debug\net6.0\ListaFinalEDEx2.pdb
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.dll
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\refint\ListaFinalEDEx2.dll
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.pdb
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ListaFinalEDEx2.genruntimeconfig.cache
+C:\Users\leona\source\repos\ListaFinalEDEx2\ListaFinalEDEx2\obj\Debug\net6.0\ref\ListaFinalEDEx2.dll
